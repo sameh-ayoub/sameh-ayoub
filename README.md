@@ -10,9 +10,6 @@ work simple for people who are new to hosting, uptime and free-host setups.
 
 ## Experience
 
-**Python Developer — XR Studio** · Present
-- Built and maintained internal Python tooling for the studio.
-
 **Independent / Open-Source Developer** · 3–5 Years
 - Designed and shipped maintenance-free developer tools used across Linux, Windows and macOS.
 - Developed Discord & Minecraft status bots with live server data, presence and uptime handling.
