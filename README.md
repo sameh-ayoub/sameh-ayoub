@@ -10,11 +10,11 @@ work simple for people who are new to hosting, uptime and free-host setups.
 
 ## Featured
 
-<a href="https://github.com/sameh-ayoub/Vextro-drover">
-  <img src="https://raw.githubusercontent.com/sameh-ayoub/Vextro-drover/master/docs/banner.png" width="100%" alt="Vextro DRV — Discord voice routing for Android">
+<a href="https://github.com/sameh-ayoub/Vextro-DRV">
+  <img src="https://raw.githubusercontent.com/sameh-ayoub/Vextro-DRV/main/docs/banner.png" width="100%" alt="Vextro DRV — Discord voice routing for Android">
 </a>
 
-**[Vextro DRV](https://github.com/sameh-ayoub/Vextro-drover)** · Android app that carries Discord
+**[Vextro DRV](https://github.com/sameh-ayoub/Vextro-DRV)** · Android app that carries Discord
 voice through a per-app tunnel instead of a full-device VPN. Java, no dependencies, Arabic + English.
 
 ---
@@ -32,7 +32,7 @@ voice through a per-app tunnel instead of a full-device VPN. Java, no dependenci
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Vextro DRV](https://github.com/sameh-ayoub/Vextro-drover) | Per-app tunnel that keeps Discord voice working on restrictive networks — no full-device VPN | Java · Android |
+| [Vextro DRV](https://github.com/sameh-ayoub/Vextro-DRV) | Per-app tunnel that keeps Discord voice working on restrictive networks — no full-device VPN | Java · Android |
 | [pm2-file-run](https://github.com/sameh-ayoub/pm2-file-run) | Run any script/bot with PM2 from the file-manager right-click menu — every platform | Shell · PowerShell · Node.js |
 | [PM2-App](https://github.com/sameh-ayoub/PM2-App) | Drag & drop desktop manager for PM2 — run and control bots without a terminal | Python |
 | [server-os-control](https://github.com/sameh-ayoub/server-os-control) | Cyberpunk-styled mobile web control panel for a Linux server | HTML · JS |
